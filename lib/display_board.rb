@@ -7,7 +7,7 @@
 # rows[3]) ("-----------")
 # rows[4]) ("   |   |   ")
 # end
-# 
+#
 # def display_board(board)
 #   print board
 # end
